@@ -19,6 +19,6 @@ export default function LogoIcon() {
   const theme = useTheme();
   const themeMode = false;
   return (
-    <img src={theme.palette.mode === themeMode ? logoDark : logo} alt="Gaurav Knowledge" width="100" />
+    <img src={theme.palette.mode === themeMode ? logoDark : logo} alt="GK Tech" width="60" />
   );
 }
