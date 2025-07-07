@@ -72,3 +72,11 @@ Gaurav Khairnar
 - [LinkedIn](https://www.linkedin.com/in/gaurav-khairnar-a23268ab/) 💼
 - [Instagram]() 📷
 - [Facebook]() 🟦
+
+# **Screens**
+## **Admin screen**
+![plot](./src/assets/images/screenshots/login%20screen.JPG)
+
+## **Dashboard screen**
+![plot](./src/assets/images/screenshots/dashboard%20screen.JPG)
+
