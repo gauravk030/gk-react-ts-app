@@ -67,7 +67,6 @@ Gaurav Khairnar
 ## Follow Us
 
 - [Twitter]() 🐦
-- [Dribbble]() 🏀
 - [Github](https://github.com/gauravk030) 🐙
 - [LinkedIn](https://www.linkedin.com/in/gaurav-khairnar-a23268ab/) 💼
 - [Instagram]() 📷
